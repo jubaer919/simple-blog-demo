@@ -1,0 +1,25 @@
+body{
+    background: #0a192f;
+    font-family: "nunito", sans-serif;
+}
+
+#mainNavbar .navbar-brand{
+    color: #ea1c2c;
+}
+
+#mainNavbar .nav-link{
+    color: white;
+}
+
+#mainNavbar .nav-link:hover{
+    color: #ea1c2c;
+}
+
+.content{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.navbar.scrolled{
+    background: #000;
+}
